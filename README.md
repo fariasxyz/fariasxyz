@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-vale-farias)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardovalede@gmail.com)
 
-
 ## Linguagens de Programação e Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
@@ -27,8 +26,10 @@
 </div><br/>
 
 ## Você também me encontra aqui!
+
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fariass_bernardo/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bernardovalede?si=3e217d3df56a4ee1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/fariass07/)
 
 Apaixonado por tecnologia, astronomia e músicas.
 
