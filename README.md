@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bernardo Farias! 🖐️
 
-[![LinkedIn](https://img.shields.io/website?label=LinkedIN&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.linkedin.com/in/bernardo-vale-farias)
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)])](https://www.linkedin.com/in/bernardo-vale-farias)
 [![Spotify](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://open.spotify.com/user/bernardovalede?si=e3a54920bd5b450e)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fariass.be)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fariasxyz)
