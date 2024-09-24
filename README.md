@@ -1,5 +1,6 @@
 ## Olá, Eu sou o Bernardo Farias! 🖐️
 
+## Onde você pode me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fariass.be)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bernardovalede?si=3e217d3df56a4ee1)
 
@@ -24,7 +25,7 @@
     <img align="center" alt="boostrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" />
 </div><br/>
 
-## Onde você você pode me encontrar
+## Você também me encontra aqui!
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fariass_bernardo/)
 
 Apaixonado por tecnologia, astronomia e músicas.
