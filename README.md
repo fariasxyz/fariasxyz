@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Bernardo Farias! 🖐️
 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)] (https://open.spotify.com/user/bernardovalede?si=3c4ee766fb2a45dd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-vale-farias)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:bernardovalede@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fariass.be)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fariasxzs)
+
 
 ## Linguagens de Programação e Tecnologias que eu uso no meu dia a dia
 
