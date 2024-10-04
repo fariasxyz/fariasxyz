@@ -34,7 +34,7 @@
 Apaixonado por tecnologia, astronomia e músicas.
 
 ### Últimos projetos:
-- [-](-)<br/>
+- [Exercícios na Linguagem C#]((https://github.com/fariass07/csharp))<br/>
 - [API - serpAPI](https://github.com/fariass07/serpAPI)<br/>
 - [SCRIPT BANCO - C#](https://github.com/fariass07/BANCO-VIRTUAL-C-)<br/>
 - [BOT DISCORD - JavaScript](https://github.com/fariass07/BOT-DISCORD)<br/>
