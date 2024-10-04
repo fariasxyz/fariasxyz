@@ -34,7 +34,8 @@
 Apaixonado por tecnologia, astronomia e músicas.
 
 ### Últimos projetos:
-- [Operação de Banco - C#](https://github.com/fariass07/serpAPI)<br/>https://github.com/fariass07/serpAPI
-- [BOT para servidor do Discord - JavaScript](https://github.com/fariass07/BANCO-VIRTUAL-C-)<br/>
-- [Calculadora - JavaScript](https://github.com/fariass07/BOT-DISCORD)<br/>
+- [-](-)<br/>
+- [API - serpAPI](https://github.com/fariass07/serpAPI)<br/>
+- [SCRIPT BANCO - C#](https://github.com/fariass07/BANCO-VIRTUAL-C-)<br/>
+- [BOT DISCORD - JavaScript](https://github.com/fariass07/BOT-DISCORD)<br/>
 - [E-Commerce Miquella's Store - C#](https://github.com/fariass07/Miquellas-Store)<br/>
