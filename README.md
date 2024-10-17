@@ -12,6 +12,7 @@
 <div style="display: inline_block">
   <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"](https://learn.microsoft.com/pt-br/dotnet/csharp/) />
   <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"](https://dotnet.microsoft.com/pt-br/) />
+  
 ## I'm also studying...
 
 <div style="display: inline_block">
