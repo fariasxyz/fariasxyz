@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/d0wh2kf.png" alt="banner" width="100%"/>
-</p>
-
 ## Hey, I am Bernardo Farias! 🖐️
 
 <p align="center">
