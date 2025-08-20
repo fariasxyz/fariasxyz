@@ -87,11 +87,3 @@ In my free time, I usually play games and explore new technologies. 🚀
 - [E-Commerce: Miquella's Store (C#)](https://github.com/fariass07/Miquellas-Store) — small e-commerce project  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fariass07&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariass07&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
