@@ -55,7 +55,7 @@
 ## 🎮 Gaming
 
 <p>
-  <a href="https://steamcommunity.com/id/fariass_bernardo/" target="_blank" rel="noopener noreferrer">
+  <a href="https://steamcommunity.com/id/fariasxyz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
 </p>
