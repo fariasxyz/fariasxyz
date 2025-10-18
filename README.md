@@ -1,14 +1,5 @@
 ## Hey, I am Bernardo Farias! 🖐️
 
-<p align="center">
-  <a href="https://instagram.com/fariass.be" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.x.com/fariasxyz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 📫 You can reach me at
@@ -75,6 +66,11 @@
 
 I enjoy reading articles about **astronomy**, **technology** and **music**.  
 In my free time, I usually play games and explore new technologies. 🚀
+<p align="center">
+  <a href="https://instagram.com/fariass.be" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
