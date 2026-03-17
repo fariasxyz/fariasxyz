@@ -2,8 +2,9 @@
 > Software developer from Brazil, focused on C# / .NET — building projects and leveling up every day.
 
 <p align="right">
-  <a href="./README.pt-br.md">🇧🇷 Português</a>
-  <img src="https://img.shields.io/badge/Portuguese - Brazil-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white"</a>
+  <a href="./README.pt-br.md">
+     <img src="https://img.shields.io/badge/Brazil-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white"</a>
+  </a>
 </p>
 </p>
 
