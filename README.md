@@ -1,6 +1,10 @@
 ## Hey, I'm Bernardo Farias! 🖐️
 > Software developer from Brazil, focused on C# / .NET — building projects and leveling up every day.
 
+<p align="right">
+  <a href="./README.pt-br.md">🇧🇷 Português</a>
+</p>
+
 ---
 
 ## 🌌 About Me
@@ -36,6 +40,22 @@ In my free time, I usually play games and explore new technologies. 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariasxyz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎵 Listening To
+
+<p align="center">
+  <!-- 
+    Para ativar o Spotify Now Playing:
+    1. Acesse https://github.com/novatorem/spotify-github-profile
+    2. Faça o deploy no Vercel conectando sua conta do Spotify
+    3. Substitua a URL abaixo pela gerada no seu deploy
+  -->
+  <a href="https://open.spotify.com/user/bernardovalede">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bernardovalede&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
+  </a>
 </p>
 
 ---
