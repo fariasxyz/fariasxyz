@@ -35,22 +35,6 @@ In my free time, I usually play games and explore new technologies. 🚀
 
 ---
 
-## 🎵 Listening To
-
-<p align="center">
-  <!-- 
-    Para ativar o Spotify Now Playing:
-    1. Acesse https://github.com/novatorem/spotify-github-profile
-    2. Faça o deploy no Vercel conectando sua conta do Spotify
-    3. Substitua a URL abaixo pela gerada no seu deploy
-  -->
-  <a href="https://open.spotify.com/user/bernardovalede">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bernardovalede&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
 ## 📂 Latest Projects
 
 | Project | Description |
