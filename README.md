@@ -78,7 +78,7 @@ In my free time, I usually play games and explore new technologies. 🚀
   <a href="https://www.linkedin.com/in/bernardo-vale-farias" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:bernardovalede@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="bernardovalede@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/fariass.be" target="_blank" rel="noopener noreferrer">
