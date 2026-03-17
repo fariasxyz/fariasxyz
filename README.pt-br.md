@@ -2,7 +2,8 @@
 > Desenvolvedor de software brasileiro, focado em C# / .NET — construindo projetos e evoluindo todo dia.
 
 <p align="right">
-  <a href="./README.md">🇺🇸 English</a>
+  <a href="./README.md" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/English-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white"</a>
 </p>
 
 ---
