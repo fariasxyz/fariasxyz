@@ -22,17 +22,8 @@ No meu tempo livre, costumo jogar e explorar novas tecnologias. 🚀
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📘 Aprendendo Atualmente
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </p>
 
 ---
@@ -45,12 +36,9 @@ No meu tempo livre, costumo jogar e explorar novas tecnologias. 🚀
 
 ---
 
-## 🎵 Ouvindo Agora
-
-<p align="center">
-  <a href="https://open.spotify.com/user/bernardovalede">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bernardovalede&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
-  </a>
+## 📘 Aprendendo Atualmente
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ---
